@@ -2,5 +2,7 @@
   "id": "tofu",
   "displayName": "Tofu",
   "description": "A cheerful tan-and-white dog Codex pet with a yellow collar, based on the provided photo.",
+  "source": "https://github.com/tycoi2005/codexpet/tree/main/tofu",
+  "link": "https://codex-pets.net/#/pets/tofu",
   "spritesheetPath": "spritesheet.webp"
 }
